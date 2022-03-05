@@ -1,0 +1,6 @@
+00:09:33.317 [main] INFO  testCases.TC_002_Login - Clicked on Login 
+00:09:34.151 [main] INFO  testCases.TC_002_Login - Provided Email 
+00:09:34.349 [main] INFO  testCases.TC_002_Login - Provided Password 
+00:09:37.557 [main] INFO  testCases.TC_002_Login - Clicked on Login
+00:09:37.687 [main] INFO  testCases.TC_002_Login - Login Success 
+00:09:37.687 [main] INFO  testCases.TC_002_Login -  Finished TC_002_Login 
